@@ -1,0 +1,29 @@
+.black{
+    background-color: green;
+} 
+.white{
+    background-color: #f0f0f0;
+}
+td{
+width: 70px;
+height: 70px;
+text-align: center;
+font-weight: 500;
+font-size: 60px;
+}
+table{
+    border: 3px solid black;
+}
+.spawn{
+
+    color: #f00000;
+}
+#power{
+    color: gold;
+}
+#bishop{
+    color: darkorange;
+}
+#horse{
+    color: darkgoldenrod;
+}
